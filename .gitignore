@@ -1,0 +1,10 @@
+output/
+__pycache__/
+*.py[cod]
+.sqlmap_history
+traffic.txt
+*~
+req*.txt
+.idea/
+.git/
+debian/.debhelper*

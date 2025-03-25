@@ -1,0 +1,14 @@
+debian/helper-script/sqlmap usr/bin/
+data usr/share/sqlmap/
+doc usr/share/sqlmap/
+extra usr/share/sqlmap/
+lib usr/share/sqlmap/
+plugins usr/share/sqlmap/
+tamper usr/share/sqlmap/
+thirdparty usr/share/sqlmap/
+.pyinitrc usr/share/sqlmap/
+LICENSE usr/share/sqlmap/
+sqlmap.conf usr/share/sqlmap/
+sqlmap.py usr/share/sqlmap/
+sqlmapapi.py usr/share/sqlmap/
+sqlmapapi.yaml usr/share/sqlmap/

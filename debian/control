@@ -1,0 +1,20 @@
+Source: sqlmap-1.9
+Section: unknown
+Priority: optional
+Maintainer: Joe <joe@rstrike.my.id>
+Rules-Requires-Root: no
+Build-Depends:
+ debhelper-compat (= 13),
+Standards-Version: 4.6.2
+Homepage: https://github.com/sqlmapproject/sqlmap
+Vcs-Browser: https://github.com/pwnpine/sqlmap
+Vcs-Git: https://github.com/pwnpine/sqlmap.git
+
+Package: sqlmap-1.9
+Architecture: any
+Multi-Arch: foreign
+Depends:
+ python3,
+ ${shlibs:Depends},
+ ${misc:Depends},
+Description: Automatic SQL injection and database takeover tool.
