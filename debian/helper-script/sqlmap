@@ -2,4 +2,4 @@
 
 set -e
 
-python3 /usr/share/sqlmap/sqlmap.py "$@"
+python3 /usr/local/Library/Applications/sqlmap/sqlmap.py "$@"

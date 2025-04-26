@@ -1,1 +1,1 @@
-chmod 755 /usr/bin/sqlmap
+chmod 755 /usr/local/Library/bin/sqlmap
